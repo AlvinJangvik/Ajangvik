@@ -1,0 +1,41 @@
+p
+            {
+                color: blue;
+                font-family: sans-serif;
+                font-size: 130%;
+            }
+h1
+  {
+      color: green;
+      font-family: arial;
+      font-size: 22px;
+  }
+ h2
+  {
+      color: green;
+      font-family: sans-serif;
+      font-size:150%;
+  }
+  body
+   {
+       background-color: lightblue;
+   }
+.b
+{
+    background-color:lightgreen;
+    text-align: center;
+}
+.t
+ {
+    text-align:right; 
+    
+ }
+  a
+  {
+      text-decoration: none;
+  }
+ p.o {
+     border-style: dashed;
+     
+     
+ }
